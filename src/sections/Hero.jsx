@@ -5,21 +5,21 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const carouselData = [
     {
         id: 1,
-        image: "/hero/cow-1.png",
+        image: "hero/cow-1.png",
         title: "Pure Freshness from Our Farm",
         desc: "Experience the richest, creamiest milk sourced from happy, grass-fed cows.",
         cta: "Shop Now"
     },
     {
         id: 2,
-        image: "/hero/cow-2.png",
+        image: "hero/cow-2.png",
         title: "100% Organic Dairy Products",
         desc: "Nature's best, delivered fresh to your doorstep every morning.",
         cta: "Explore Store"
     },
     {
         id: 3,
-        image: "/hero/cow-3.jpg",
+        image: "hero/cow-3.jpg",
         title: "Traditional Care, Modern Purity",
         desc: "We blend age-old farming wisdom with the highest standards of hygiene.",
         cta: "Our Process"
