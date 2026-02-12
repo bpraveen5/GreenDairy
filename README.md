@@ -16,7 +16,7 @@ A modern, animated dairy farming business website showcasing products, services,
 - **Interactive Components** - Avatar groups, ratings, pagination, and more
 - **Contact Form** - Easy customer communication
 - **Loading Animation** - Custom animated loading screen
-- **Accessibility** - React Aria Components for better UX
+- **Accessibility** - React Aria Components for better UX Design
 
 ---
 
